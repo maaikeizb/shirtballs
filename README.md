@@ -1,5 +1,6 @@
 # shirtballs
 This repository purely exist so people can say they are forking shirtballs.
+Bonus points if they see a saintly maternal figure doing so.
 
 
 
